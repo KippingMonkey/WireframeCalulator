@@ -1,0 +1,22 @@
+{
+  "name": "wireframecalulator",
+  "version": "1.0.0",
+  "description": "udemyProject",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KippingMonkey/WireframeCalulator.git"
+  },
+  "author": "Jonas Andersson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KippingMonkey/WireframeCalulator/issues"
+  },
+  "homepage": "https://github.com/KippingMonkey/WireframeCalulator#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
